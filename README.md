@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitkodan-ca
+- 👋 Hi, I’m Ankit Kodan
 - 👀 I’m interested in Centennial College
 - 🌱 I’m currently learning web application development
 - 💞️ I’m looking to collaborate on linkedIn
